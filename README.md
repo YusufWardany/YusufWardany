@@ -30,7 +30,7 @@ I hunt real-world vulnerabilities including:
 ✔️ Responsible Disclosure
 
 ## 📫 Contact
-- LinkedIn: [your-link]
-- HackerOne / Bugcrowd: [your-profile]
+- LinkedIn: [https://www.linkedin.com/in/yusuf-wardany-8b5212296?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZVzzu%2BGPTJ6xtMjokE5QGw%3D%3D]
+- HackerOne / Bugcrowd: []
 
 > “Think like an attacker. Secure by breaking.”
