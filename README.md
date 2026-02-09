@@ -1,78 +1,71 @@
-# Hi there, I'm [YOUR NAME] 👋
-## 🛡️ Blue Team Analyst | Computer Engineering Student | Incident Response Intern @ DEPI
+# Hi there, I'm [Yusuf Wardany] 👋
+
+## 🛡️ Blue Teamer | Incident Response Intern @ DEPI
+### 🏗️ Computer Engineering Student | 🚩 CTFs • INE • TryHackMe • Cyber Warfare Labs
 
 > **"Leveraging Offensive Knowledge to Build Resilient Defenses."**
 
-I am a **Computer Engineering undergraduate** and **Incident Responder** bridging the gap between low-level system understanding (OS, Networks) and modern security operations. My approach combines engineering rigor with an adversarial mindset to detect advanced threats and automate defense mechanisms.
+---
+
+### 🛑 "To catch a hacker, you must think like one—but analyze like an engineer."
+
+I am a **Blue Team Analyst** and **Computer Engineering undergraduate** with a unique edge: I build defenses based on a deep understanding of offensive tactics. My background in **Red Teaming** and **Bug Bounty hunting** allows me to anticipate attack vectors, while my engineering education grounds my analysis in system internals.
 
 ---
 
-### 🚀 Professional Experience
-**Incident Response Intern | Digital Egypt Pioneers Initiative (DEPI)**
-- Monitoring organizational assets using SIEM solutions and conducting Level 1 triage.
-- Analyzing PCAP files and endpoint logs to identify Indicators of Compromise (IoCs).
-- Simulating threats based on **MITRE ATT&CK** to validate detection rules.
+### 🧠 The Engineering Advantage
+Unlike typical analysts, I don't just look at logs; I investigate the underlying architecture.
+
+* **Operating Systems (CSE233):** Understanding memory anomalies, process scheduling, and kernel-level threats.
+* **Computer Networks (CSE261):** Analyzing packet structures, TCP/IP handshakes, and network protocols at a fundamental level.
+* **Cryptography (CSE242):** Identifying encryption flaws and understanding secure communication failures.
+* **Digital Signal Processing (ELE432):** Applying signal processing principles to filter noise from legitimate security alerts.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🔭 Current Mission
+As an **Incident Response Intern at DEPI**, I am bridging the gap between theory and practice.
+* **Operations:** Monitoring SIEM environments and triaging alerts.
+* **Lifecycle:** Participating in the full incident lifecycle (Preparation, Detection, Analysis, Containment).
+* **Training:** Actively training on **INE's eCIR and eCHTP** tracks to master Threat Hunting and Advanced Incident Response.
 
-| **Category** | **Technologies & Skills** |
+---
+
+### ⚔️ Core Competencies & Technical Arsenal
+
+| **Domain** | **Skills & Tools** |
 | :--- | :--- |
-| **🛡️ Blue Team Ops** | Incident Response, Threat Hunting, SIEM (Splunk/ELK), Snort/Suricata, MITRE ATT&CK |
-| **☁️ Cloud & Network** | AWS Security (VPC, IAM), Network Segmentation, Firewalls, TCP/IP Analysis (Wireshark) |
-| **💻 Engineering** | OS Internals (Concurrency/Threads), Digital Forensics, Cryptography, Malware Analysis |
-| **⚙️ Automation** | Python (Scapy, Automation), Bash Scripting, Java, Regex |
+| **🛡️ Defensive Operations** | Incident Response, Log Analysis (**Splunk**, **ELK Stack**), Threat Hunting, SOC Operations |
+| **🔬 Technical Analysis** | Network Forensics (**Wireshark**, **Tcpdump**), Malware Analysis, Linux/Windows Internals |
+| **😈 Adversarial Mindset** | Web Penetration Testing, Vulnerability Patching, Attack Simulation (**MITRE ATT&CK**) |
+| **⚙️ Engineering & Code** | Python (Automation), Bash Scripting, Java, C/C++ |
 
 ---
 
-### 📜 Certifications & Training
+### 📜 Certifications & Preparation
 
-**Issued & Active:**
-- 🛡️ **eLearnSecurity Junior Penetration Tester (eJPT)** - INE
-- 📜 **IBM Cybersecurity Analyst Professional Certificate**
-- ☁️ **Google Cybersecurity Professional Certificate**
-- 🔧 **Cisco Certified Support Technician (CCST)**
+**🎯 Target & Preparation:**
+* **eJPT** (eLearnSecurity Junior Penetration Tester)
+* **eCIR** (eLearnSecurity Certified Incident Responder)
+* **eCHTP** (eLearnSecurity Certified Threat Hunting Professional)
 
-**In Progress (Loading... ⏳):**
-- 🎯 **eLearnSecurity Certified Incident Responder (eCIR)**
-- 🏹 **eLearnSecurity Certified Threat Hunting Professional (eCHTP)**
-
----
-
-### 📂 Featured Projects
-
-#### ☁️ [Secure Cloud Infrastructure & Network Segmentation](LINK_TO_YOUR_PROJECT_REPO)
-*Designed a Zero-Trust Network Architecture on AWS.*
-- **Tech:** AWS VPC, EC2, NAT Gateways, Security Groups.
-- **Key Feature:** Implemented strict network segmentation (Public vs. Private Subnets) and stateful firewalls to isolate critical assets.
-
-#### 🔐 [Cryptographic Vulnerability Research](LINK_TO_YOUR_PROJECT_REPO)
-*Analysis of high-profile cryptographic failures.*
-- **Focus:** Investigated incidents like **WannaCry** and **RSA SecurID** to understand exploitation vectors.
-- **Research:** Analyzed defenses against **Side-Channel** and **Man-in-the-Middle** attacks on standard algorithms.
-
-#### 🖥️ [OS Concurrency & Multi-threading Simulation](LINK_TO_YOUR_PROJECT_REPO)
-*A Java-based simulation demonstrating OS process management.*
-- **Tech:** Java, JavaFX, Multi-threading.
-- **Key Feature:** Implemented **Synchronization** to prevent Race Conditions and designed logic for **Deadlock Prevention**.
-
-#### 🔎 [Network Traffic Anomaly Detection](LINK_TO_YOUR_PROJECT_REPO)
-*Signal processing approach to threat detection.*
-- **Tech:** Python, Pandas, Scapy.
-- **Key Feature:** Applied **DSP** concepts to detect C2 beaconing patterns in encrypted traffic without decryption.
+**🏆 Issued & Training:**
+* **Incident Response Track** - Digital Egypt Pioneers Initiative (DEPI)
+* **IBM Cybersecurity Analyst Professional Certificate**
+* **Cisco Certified Support Technician (CCST) Cybersecurity**
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
+I am seeking **SOC Analyst**, **Incident Response**, or **Blue Team** roles where I can utilize my "Attacker Mindset" to fortify organizations against complex threats.
+
 <p align="left">
 <a href="LINK_TO_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
