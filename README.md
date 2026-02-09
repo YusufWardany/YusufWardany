@@ -67,6 +67,6 @@ As an **Incident Response Intern at DEPI**, I am bridging the gap between theory
 I am seeking **SOC Analyst**, **Incident Response**, or **Blue Team** roles where I can utilize my "Attacker Mindset" to fortify organizations against complex threats.
 
 <p align="left">
-<a href="LINK_TO_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yusuf-wardany-8b5212296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
