@@ -58,7 +58,7 @@ As an **Incident Response Intern at DEPI**, I am bridging the gap between theory
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YusufWardany&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yusuf__Wardany&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
 </p>
 
 ---
